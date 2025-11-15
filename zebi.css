@@ -672,9 +672,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         
         // ### استبدل هذه المسارات بمسارات صورك الحقيقية ###
         const productImages = [
-            '/im_1.2.jpg',
+            '/im_1.1.jpg',
             '/im_5v2.jpg',
-            '/im_1.3.jpg',
+            '/im_6v2.jpg',
             '/im_4v2.jpg'
         ];
 
